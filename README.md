@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **KMFilipov20@codingburgas.bg**
 
+- 💡  I’m interested in C++.
+
+
 <h4 align = "left">Qualifications:</h4>
 <p>
     <img src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width="10%" >
@@ -22,6 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmfilipov&show_icons=true&locale=en" alt="kmfilipov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmfilipov&" alt="kmfilipov" /></p>
+
 
 
 
