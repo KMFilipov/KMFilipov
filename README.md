@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
+- 💡  I’m interested in C++, C#.
+
 - 🌱 I’m currently learning **C++, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **KMFilipov20@codingburgas.bg**
